@@ -13,3 +13,6 @@ Takes two hard-coded scores: one representing how many categories you won, and t
 
 ## 4. Calculate an average
 Asks user to specify how many numbers they'd like to calculate the average of. A for loop then runs however many times the user specified, each time prompting them to enter an integer. Once all numbers have been entered, the average is calculated and printed on screen.
+
+## 5. Running score tally
+Keeps a running score - perfect when we don't know how many integers will be input in advance. Only positive integers may be added. As soon as a negative integer is input, the program prints out the final score before exiting.
