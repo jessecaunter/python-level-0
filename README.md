@@ -29,3 +29,6 @@ Print a famous quote, along with the name of the person who said it.
 ## 9. Stripping names
 Store a person's name which includes some whitespace characters at the beginning and end.
 Print name using each of the three stripping functions, lstrip(), rstrip(), and strip().
+
+## 10. Number eight
+Four different operations that result in the number 8.
