@@ -16,3 +16,6 @@ Asks user to specify how many numbers they'd like to calculate the average of. A
 
 ## 5. Running score tally
 Keeps a running score - perfect when we don't know how many integers will be input in advance. Only positive integers may be added. As soon as a negative integer is input, the program prints out the final score before exiting.
+
+## 6. Personal message
+Store a person's name in a variable, and print a message to that person.
