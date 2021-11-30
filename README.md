@@ -19,3 +19,6 @@ Keeps a running score - perfect when we don't know how many integers will be inp
 
 ## 6. Personal message
 Store a person's name in a variable, and print a message to that person.
+
+## 7. Name cases
+Store a person's name in a variable, and then print that person's name in lowercase, uppercase, and titlecase.
