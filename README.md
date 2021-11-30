@@ -32,3 +32,7 @@ Print name using each of the three stripping functions, lstrip(), rstrip(), and 
 
 ## 10. Number eight
 Four different operations that result in the number 8.
+
+## 11. Favourite number
+Store your favourite number in variable. Then, using that variable, create a message that reveals your favourite number.
+Print that message.
