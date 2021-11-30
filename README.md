@@ -22,3 +22,6 @@ Store a person's name in a variable, and print a message to that person.
 
 ## 7. Name cases
 Store a person's name in a variable, and then print that person's name in lowercase, uppercase, and titlecase.
+
+## 8. Famous quote
+Print a famous quote, along with the name of the person who said it.
