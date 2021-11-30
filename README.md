@@ -25,3 +25,7 @@ Store a person's name in a variable, and then print that person's name in lowerc
 
 ## 8. Famous quote
 Print a famous quote, along with the name of the person who said it.
+
+## 9. Stripping names
+Store a person's name which includes some whitespace characters at the beginning and end.
+Print name using each of the three stripping functions, lstrip(), rstrip(), and strip().
