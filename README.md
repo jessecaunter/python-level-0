@@ -45,3 +45,6 @@ Print a personalised message to each person in a list of names.
 
 ## 14. Nuggets players list
 Prints a personalised message about each of the starters.
+
+## 15. Changing guest list
+Prints a message to each person in a list, inviting them for dinner. One of the people in the guest list can't make it, so they are replaced with someone else. A second set of invitation messages is then printed.
