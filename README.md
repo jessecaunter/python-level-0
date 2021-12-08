@@ -48,3 +48,6 @@ Prints a personalised message about each of the starters.
 
 ## 15. Changing guest list
 Prints a message to each person in a list, inviting them for dinner. One of the people in the guest list can't make it, so they are replaced with someone else. A second set of invitation messages is then printed.
+
+## 16. More guests
+Prints a message to each person in a list, inviting them for dinner. Three more guests added to the list via insert() and append() methods. A second set of invitation messages is then printed.
