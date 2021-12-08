@@ -42,3 +42,6 @@ Store the names of a few friends in a list. Print each person's name by accessin
 
 ## 13. Greetings
 Print a personalised message to each person in a list of names.
+
+## 14. Nuggets players list
+Prints a personalised message about each of the starters.
