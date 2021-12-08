@@ -39,3 +39,6 @@ Print that message.
 
 ## 12. Names
 Store the names of a few friends in a list. Print each person's name by accessing each element in the list, one at a time.
+
+## 13. Greetings
+Print a personalised message to each person in a list of names.
