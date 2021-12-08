@@ -36,3 +36,6 @@ Four different operations that result in the number 8.
 ## 11. Favourite number
 Store your favourite number in variable. Then, using that variable, create a message that reveals your favourite number.
 Print that message.
+
+## 12. Names
+Store the names of a few friends in a list. Print each person's name by accessing each element in the list, one at a time.
