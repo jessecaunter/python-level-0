@@ -51,3 +51,6 @@ Prints a message to each person in a list, inviting them for dinner. One of the 
 
 ## 16. More guests
 Prints a message to each person in a list, inviting them for dinner. Three more guests added to the list via insert() and append() methods. A second set of invitation messages is then printed.
+
+## 17. Shrinking guest list
+Starts with code from previous program, but then a number of people are removed from the list using pop() and del.
