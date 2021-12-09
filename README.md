@@ -57,3 +57,6 @@ Starts with code from previous program, but then a number of people are removed 
 
 ## 18. Seeing the World
 Initialise a list of locations. Use sorted() method to print list in alphabetical and reverse alphabetical order without modifying the actual list. Use reverse() method to reverse the order of the list. Use sort() method to store the list in alphabetical and reverse alphabetical order.
+
+## 19. Every function
+Initialise a list of books I've read this year, and then practise accessing, adding, removing, sorting, and counting the number of elements.
