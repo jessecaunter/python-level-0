@@ -14,3 +14,5 @@ print(guests[2].title() + ", Im honoured to invite you to dinner.")
 print(guests[3].title() + ", Im honoured to invite you to dinner.")
 print(guests[4].title() + ", Im honoured to invite you to dinner.")
 print(guests[5].title() + ", Im honoured to invite you to dinner.")
+
+print("\nNow there are " + str(len(guests)) + " guests coming to dinner.")

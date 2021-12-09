@@ -50,7 +50,7 @@ Prints a personalised message about each of the starters.
 Prints a message to each person in a list, inviting them for dinner. One of the people in the guest list can't make it, so they are replaced with someone else. A second set of invitation messages is then printed.
 
 ## 16. More guests
-Prints a message to each person in a list, inviting them for dinner. Three more guests added to the list via insert() and append() methods. A second set of invitation messages is then printed.
+Prints a message to each person in a list, inviting them for dinner. Three more guests added to the list via insert() and append() methods. A second set of invitation messages is then printed. A message is then printed which indicates how many people have been invited.
 
 ## 17. Shrinking guest list
 Starts with code from previous program, but then a number of people are removed from the list using pop() and del.
