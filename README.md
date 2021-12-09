@@ -54,3 +54,6 @@ Prints a message to each person in a list, inviting them for dinner. Three more 
 
 ## 17. Shrinking guest list
 Starts with code from previous program, but then a number of people are removed from the list using pop() and del.
+
+## 18. Seeing the World
+Initialise a list of locations. Use sorted() method to print list in alphabetical and reverse alphabetical order without modifying the actual list. Use reverse() method to reverse the order of the list. Use sort() method to store the list in alphabetical and reverse alphabetical order.
