@@ -63,3 +63,6 @@ Initialise a list of books I've read this year, and then practise accessing, add
 
 ## 20. Pizzas
 Loop through a list of my favourite pizza, printing each one.
+
+## 21. Animals
+Loop through a list of animals, printing a statement about each. Then print a general statement about all three.
