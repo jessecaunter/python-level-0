@@ -60,3 +60,6 @@ Initialise a list of locations. Use sorted() method to print list in alphabetica
 
 ## 19. Every function
 Initialise a list of books I've read this year, and then practise accessing, adding, removing, sorting, and counting the number of elements.
+
+## 20. Pizzas
+Loop through a list of my favourite pizza, printing each one.
