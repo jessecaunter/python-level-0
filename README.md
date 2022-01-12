@@ -66,3 +66,6 @@ Loop through a list of my favourite pizza, printing each one.
 
 ## 21. Animals
 Loop through a list of animals, printing a statement about each. Then print a general statement about all three.
+
+## 22. Counting to twenty
+Use a for loop to print the numbers from 1 to 20, inclusive.
