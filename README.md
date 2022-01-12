@@ -69,3 +69,6 @@ Loop through a list of animals, printing a statement about each. Then print a ge
 
 ## 22. Counting to twenty
 Use a for loop to print the numbers from 1 to 20, inclusive.
+
+## 23. One million
+Make a list of the numbers from one to one million, and then use a for loop to print the numbers.
